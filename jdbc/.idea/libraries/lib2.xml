@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/资料/代码/atguigu-jdbc/jdbc-base-statement/lib/mysql-connector-java-8.0.27-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/资料/代码/atguigu-jdbc/jdbc-base-statement/lib/mysql-connector-java-8.0.27-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
