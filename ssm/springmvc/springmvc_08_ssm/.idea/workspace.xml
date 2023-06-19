@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fc7ffcc-296c-40ac-8595-395249002fa5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../.idea/java-box.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../springmvc001简单实例/target/tomcat/work/Tomcat/localhost/_/SESSIONS.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../springmvc005响应结果/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../springmvc005响应结果/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../springmvc005响应结果/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/springmvc_02_bean_load.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/java/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/java/com/itheima/config/ServletContainersInitConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/java/com/itheima/config/SpringConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/java/com/itheima/config/SpringMvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/java/com/itheima/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/java/com/itheima/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/java/com/itheima/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/java/com/itheima/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/java/com/itheima/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/classes/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/classes/com/itheima/config/ServletContainersInitConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/classes/com/itheima/config/SpringMvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/classes/com/itheima/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/classes/com/itheima/domain/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/classes/com/itheima/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/classes/com/itheima/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/springmvc_day01_quickstart-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/springmvc_day01_quickstart-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/springmvc_day01_quickstart-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/springmvc_day01_quickstart-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/tomcat/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/tomcat/logs/access_log.2021-05-05" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/tomcat/logs/access_log.2021-05-06" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/tomcat/logs/access_log.2021-05-10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../springmvc002_bean_load/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" />
-    </list>
+    <list default="true" id="4fc7ffcc-296c-40ac-8595-395249002fa5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,11 +25,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

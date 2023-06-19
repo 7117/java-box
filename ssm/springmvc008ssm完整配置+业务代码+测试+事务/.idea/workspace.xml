@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fc7ffcc-296c-40ac-8595-395249002fa5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../springmvc/springmvc_08_ssm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc/springmvc_08_ssm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/springmvc_08_ssm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/config/JdbcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/config/MyBatisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/config/ServletConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/config/SpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/config/SpringMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/dao/BookDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/domain/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/java/com/itheima/service/impl/BookServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/resources/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/src/test/java/com/itheima/service/BookServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/config/JdbcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/config/MyBatisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/config/ServletConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/config/SpringMvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/domain/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/test-classes/com/itheima/service/BookServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/tomcat/logs/access_log.2021-05-18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc008_ssm/target/tomcat/logs/access_log.2021-05-19" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RNo9CfFgvkONG5y2ckT9NgfebS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.BookServiceTest">
+    <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc_08_ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.service.BookServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTest.testGetAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc_08_ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.service.BookServiceTest" />
+      <option name="METHOD_NAME" value="testGetAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTest.testGetById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springmvc_08_ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.service.BookServiceTest" />
+      <option name="METHOD_NAME" value="testGetById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookServiceTest" />
+        <item itemvalue="JUnit.BookServiceTest.testGetAll" />
+        <item itemvalue="JUnit.BookServiceTest.testGetById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fc7ffcc-296c-40ac-8595-395249002fa5" name="Changes" comment="" />
+      <created>1687099745751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687099745751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
+</project>
